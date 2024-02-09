@@ -48,19 +48,6 @@ class WhoAmI {
     this.LearnNewTechnologies();
   }
 
-  BecomeASoftwareEngineer() {
-  console.log("To become a software engineer, I need to study.");
-  }
-
-  FinishMyProjects() {
-  console.log("Never give up.");
-  }
-
-  LearnNewTechnologies() {
-     console.log("Stay up to date with everything new in the world");
-   }
-}
-
 function Ibague_Colombia() {
   return 'Ibague, Colombia';
 }
