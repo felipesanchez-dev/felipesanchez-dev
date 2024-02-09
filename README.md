@@ -93,8 +93,8 @@ Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture`
 `Project Management` `Software Development` `Software Security` `Software Quality`
 
 ## Full Stack Developer
-Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Responsive` `Angular.JS` `React.JS` `Vue.JS`
-`PHP` `Laravel` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` `ExpressJS` `NextJs` `MongoDB` `MySql` 
+Skills: `C#` `.Net` `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Responsive` `Angular.JS` `React.JS` `Vue.JS`
+`PHP` `Laravel` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` `ExpressJS` `NextJs` `MongoDB` `MySql`
 
 ## Contact me:
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=instagram"/>](https://www.instagram.com/felipesanchez_dev/)
