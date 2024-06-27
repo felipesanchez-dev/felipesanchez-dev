@@ -41,7 +41,11 @@ class WhoAmI {
  getCity() {
     return Ibague_Colombia();
   }
-  
+getCivil_Status {
+if (In marriage == True) {
+  return Happily married
+}
+}
   Ambitions() {
     this.BecomeASoftwareEngineer();
     this.FinishMyProjects();
