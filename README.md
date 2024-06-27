@@ -41,7 +41,7 @@ class WhoAmI {
  getCity() {
     return Ibague_Colombia();
   }
-getCivil_Status {
+getCivil_Status() {
 if (In marriage == True) {
   return Happily married
 }
