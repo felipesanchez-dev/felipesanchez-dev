@@ -22,42 +22,24 @@
 </div>
 
 ## A little bit about me
+**Hi, I'm Felipe Sanchez!** Developer in web and cross-platform applications using
+technologies such as Astro, React, React Native-Expo, JavaScript, and Node.js.
+### Who am I beyond the screen?
+Programming is one of my great passions, but not everything in my life revolves around it. I am a persevering and creative person, always looking to balance my interests. I love football, playing chess, watching movies, and exploring the world, visiting new places.
 
- ```JavaScript
-class WhoAmI {
-    constructor() {
-    this.user = 'Felipe Reyes';
-    this.current_edu = "C.U.N.";
-    this.currently_learning = "React.js";
-    this.hobbies = 
-    [
-      'Music',
-      'Learn',
-      'Gamer',
-      'Do sport',
-      'Watch movies'
-    ];
-  }
- getCity() {
-    return Ibague_Colombia();
-  }
-getCivil_Status() {
-if (In marriage == True) {
-  return Happily married
-}
-}
-  Ambitions() {
-    this.BecomeASoftwareEngineer();
-    this.FinishMyProjects();
-    this.LearnNewTechnologies();
-  }
+My main focus has been on studying technologies and improving my programming logic until I feel comfortable sharing what I know, in my own way. Unlike traditional classes or courses that focus on formal theories, my goal is to teach programming in a more natural way, without the need to read extensive manuals or use technical language that can be complicated.
 
-function Ibague_Colombia() {
-  return 'Ibague, Colombia';
-}
+As a software engineer, I am passionate about creating technological solutions that really make a difference. I am always looking to learn new technologies and tools, such as artificial intelligence models, that allow me to automate, optimize, and build more robust and efficient code structures and architectures. These tools are key to improving my projects and promoting good practices in software development.
 
-const myInfo = new WhoAmI();
- ```
+I will soon start sharing my projects and knowledge about programming on platforms such as Twitch, YouTube, and TikTok. My dream is to become a content creator specialized in web application development from Colombia. In addition, I am working on a course platform where I will offer programming lessons aimed at young people and people interested in technology.
+
+One of my favorite projects is a web application that simulates Colombia's ICFES tests. This tool will allow students to practice with complete simulations, improving their academic preparation in an effective and dynamic way.
+
+I am a sociable, cheerful and creative person. Thanks to my soft skills, I am a good project leader, able to understand the needs of clients and offer clear and effective solutions. This allows me to develop interactive and accessible applications and websites.
+
+I currently work as a freelancer for companies, foundations and businesses, always looking for new challenges that allow me to improve and contribute with innovative projects. My goal is to continue growing professionally, while sharing my knowledge and helping others achieve their goals in the world of technology.
+
+
 ## Language and Tools
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
