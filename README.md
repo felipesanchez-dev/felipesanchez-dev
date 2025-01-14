@@ -21,7 +21,8 @@ test.md
 <div align="center">
   <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/?username=felipesanchez-dev&show_icons=true&theme=onedark" />
   <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesanchez-dev&layout=compact&theme=onedark"/>
-  <img width="400px" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=felipesanchez-dev&theme=onedark&hide_border=true&border_radius=5.5&short_numbers=false&date_format=j%2Fn%5B%2FY%5D&ring=EB5454"/>
+   <img width="400px" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=felipesanchez-    
+      dev&theme=onedark&hide_border=true&border_radius=5.5&short_numbers=false&date_format=j%2Fn%5B%2FY%5D&ring=EB5454"/>
 </div>
 <br>
 ## A little bit about me
