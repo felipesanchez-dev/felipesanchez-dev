@@ -17,7 +17,7 @@
 <br>
 
 <!-- GitHub Streak -->
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=felipesanchez-dev&theme=onedark&hide_border=verdadero&border_radius=5.5&short_numbers=falso&date_format=j%2Fn%5B%2FY%5D&anillo=EB5454" alt="GitHub Streak" /></a>
+<a  width=45% align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=felipesanchez-dev&theme=onedark&hide_border=verdadero&border_radius=5.5&short_numbers=falso&date_format=j%2Fn%5B%2FY%5D&anillo=EB5454" alt="GitHub Streak" /></a>
 
 <!-- Apis de actividad en GitHub -->
 <div align="center">
