@@ -1,10 +1,11 @@
 <!-- Contador de visitas -->
 ![](https://komarev.com/ghpvc/?username=felipesanchez-dev&color=blueviolet&style=flat-square)
 
-<!--Barra-->
+<!-- Barra -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<!-- Saludo ( Hello) -->
+
+<!-- Saludo (Hello) -->
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <br>
 
@@ -12,14 +13,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Felipe;I'm+Software+Engineering)](https://git.io/typing-svg)
 
 <h3 align="center">"If you can imagine it, you can program it"</h3>
-<h4 align="center">-  Alejandro Taboada -</h4>
+<h4 align="center">- Alejandro Taboada -</h4>
 <br>
+
+<!-- GitHub Streak -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=felipesanchez-dev&theme=onedark&hide_border=true&border_radius=5.5&short_numbers=false&date_format=j%2Fn%5B%2FY%5D&ring=EB5454)](https://git.io/streak-stats)
+
 <!-- Apis de actividad en GitHub -->
-<div align="center" style="margin-bottom:200px">
+<div align="center">
  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=felipesanchez-dev&theme=radical&show_icons=true" />
  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesanchez-dev&layout=compact&theme=radical" />
-<br>
- <img width=40% align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=felipesanchez-dev&layout=compact&theme=radical](https://github-readme-streak-stats.herokuapp.com/?user=felipesanchez-dev&theme=onedark&hide_border=true&border_radius=5.5&short_numbers=false&date_format=j%2Fn%5B%2FY%5D&ring=EB5454)" />
+</div>
 
 
 ## A little bit about me
