@@ -18,7 +18,8 @@
 <div align="center" style="margin-bottom:200px">
  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=felipesanchez-dev&theme=radical&show_icons=true" />
  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesanchez-dev&layout=compact&theme=radical" />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=felipesanchez-dev&theme=onedark&border_radius=5.5&date_format=j%2Fn%5B%2FY%5D&anillo=EB5454)](https://git.io/streak-stats)
+<br>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=felipesanchez-dev&theme=onedark&border_radius=5.5&date_format=j%2Fn%5B%2FY%5D&anillo=EB5454)](https://git.io/streak-stats)
 
 ## A little bit about me
 **Hi, I'm Felipe Sanchez!** Developer in web and cross-platform applications using
