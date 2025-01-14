@@ -19,9 +19,6 @@
 <!-- APIs de actividad en GitHub -->
 <div align="center">
   <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/?username=felipesanchez-dev&show_icons=true&theme=onedark" />
-  <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesanchez-dev&layout=compact&theme=onedark"/>
-  <br>
-  <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesanchez-dev&layout=compact&theme=onedark"/>
 </div>
 
 <br>
