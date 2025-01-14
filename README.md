@@ -14,12 +14,14 @@
 <h3 align="center">"If you can imagine it, you can program it"</h3>
 <h4 align="center">-  Alejandro Taboada -</h4>
 <br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=felipesanchez-dev&theme=onedark&hide_border=true&border_radius=5.5&short_numbers=false&date_format=j%2Fn%5B%2FY%5D&ring=EB5454)](https://git.io/streak-stats)
+
 <!-- Apis de actividad en GitHub -->
 <div align="center" style="margin-bottom:200px">
  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=felipesanchez-dev&theme=radical&show_icons=true" />
  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesanchez-dev&layout=compact&theme=radical" />
 <br>
- <img width=40% align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=felipesanchez-dev&layout=compact&theme=radical](https://github-readme-streak-stats.herokuapp.com?user=felipesanchez-dev&theme=onedark&border_radius=5.5&date_format=j%2Fn%5B%2FY%5D&anillo=EB5454" alt="GitHub Streak)" />
+
 
 ## A little bit about me
 **Hi, I'm Felipe Sanchez!** Developer in web and cross-platform applications using
