@@ -16,15 +16,14 @@
 <h4 align="center">- Alejandro Taboada -</h4>
 <br>
 
-<!-- GitHub Streak -->
-<a width=45% align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=felipesanchez-dev&theme=onedark&hide_border=verdadero&border_radius=5.5&short_numbers=falso&date_format=j%2Fn%5B%2FY%5D&anillo=EB5454" alt="GitHub Streak" /></a>
-
-
 <!-- Apis de actividad en GitHub -->
 <div align="center">
  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=felipesanchez-dev&theme=radical&show_icons=true" />
  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesanchez-dev&layout=compact&theme=radical" />
 </div>
+<br>
+<!-- GitHub Streak -->
+<a width=45% align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=felipesanchez-dev&theme=onedark&hide_border=verdadero&border_radius=5.5&short_numbers=falso&date_format=j%2Fn%5B%2FY%5D&anillo=EB5454" alt="GitHub Streak" /></a>
 
 
 ## A little bit about me
