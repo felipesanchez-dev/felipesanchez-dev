@@ -19,7 +19,7 @@
  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=felipesanchez-dev&theme=radical&show_icons=true" />
  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesanchez-dev&layout=compact&theme=radical" />
 <br>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=felipesanchez-dev&theme=onedark&border_radius=5.5&date_format=j%2Fn%5B%2FY%5D&anillo=EB5454" alt="GitHub Streak" /></a>
+ <img width=40% align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=felipesanchez-dev&layout=compact&theme=radical](https://github-readme-streak-stats.herokuapp.com?user=felipesanchez-dev&theme=onedark&border_radius=5.5&date_format=j%2Fn%5B%2FY%5D&anillo=EB5454" alt="GitHub Streak)" />
 
 ## A little bit about me
 **Hi, I'm Felipe Sanchez!** Developer in web and cross-platform applications using
