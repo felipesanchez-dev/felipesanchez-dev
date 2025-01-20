@@ -23,23 +23,22 @@
 
 <br>
 
-## A little bit about me
-**Hi, I'm Felipe Sanchez!** Developer in web and cross-platform applications using
-technologies such as Astro, React, React Native-Expo, JavaScript, and Node.js.
-### Who am I beyond the screen?
-Programming is one of my great passions, but not everything in my life revolves around it. I am a persevering and creative person, always looking to balance my interests. I love football, playing chess, watching movies, and exploring the world, visiting new places.
+## Un poco sobre mí
+**¡Hola, soy Felipe Sánchez!** Desarrollador de aplicaciones web y multiplataforma utilizando tecnologías como Astro, React, React Native-Expo, JavaScript y Node.js.
+### ¿Quién soy más allá de la pantalla?
+La programación es una de mis grandes pasiones, pero no todo en mi vida gira en torno a ella. Soy una persona perseverante y creativa, siempre buscando equilibrar mis intereses. Me encanta el fútbol, jugar ajedrez, ver películas y explorar el mundo, visitando nuevos lugares.
 
-My main focus has been on studying technologies and improving my programming logic until I feel comfortable sharing what I know, in my own way. Unlike traditional classes or courses that focus on formal theories, my goal is to teach programming in a more natural way, without the need to read extensive manuals or use technical language that can be complicated.
+Mi enfoque principal ha sido estudiar tecnologías y mejorar mi lógica de programación hasta sentirme cómodo compartiendo lo que sé, a mi manera. A diferencia de las clases tradicionales o los cursos que se enfocan en teorías formales, mi objetivo es enseñar programación de una manera más natural, sin necesidad de leer manuales extensos ni utilizar un lenguaje técnico que pueda resultar complicado.
 
-As a software engineer, I am passionate about creating technological solutions that really make a difference. I am always looking to learn new technologies and tools, such as artificial intelligence models, that allow me to automate, optimize, and build more robust and efficient code structures and architectures. These tools are key to improving my projects and promoting good practices in software development.
+Como ingeniero de software, me apasiona crear soluciones tecnológicas que realmente marquen la diferencia. Siempre estoy buscando aprender nuevas tecnologías y herramientas, como modelos de inteligencia artificial, que me permitan automatizar, optimizar y construir estructuras y arquitecturas de código más robustas y eficientes. Estas herramientas son clave para mejorar mis proyectos y promover buenas prácticas en el desarrollo de software.
 
-I will soon start sharing my projects and knowledge about programming on platforms such as Twitch, YouTube, and TikTok. My dream is to become a content creator specialized in web application development from Colombia. In addition, I am working on a course platform where I will offer programming lessons aimed at young people and people interested in technology.
+Pronto comenzaré a compartir mis proyectos y conocimientos sobre programación en plataformas como Twitch, YouTube y TikTok. Mi sueño es convertirme en un creador de contenido especializado en el desarrollo de aplicaciones web desde Colombia. Además, estoy trabajando en una plataforma de cursos donde ofreceré lecciones de programación orientadas a jóvenes y personas interesadas en la tecnología.
 
-One of my favorite projects is a web application that simulates Colombia's ICFES tests. This tool will allow students to practice with complete simulations, improving their academic preparation in an effective and dynamic way.
+Uno de mis proyectos favoritos es una aplicación web que simula los exámenes de ICFES de Colombia. Esta herramienta permitirá a los estudiantes practicar con simulaciones completas, mejorando su preparación académica de una manera efectiva y dinámica.
 
-I am a sociable, cheerful and creative person. Thanks to my soft skills, I am a good project leader, able to understand the needs of clients and offer clear and effective solutions. This allows me to develop interactive and accessible applications and websites.
+Soy una persona sociable, alegre y creativa. Gracias a mis habilidades blandas, soy un buen líder de proyectos, capaz de entender las necesidades de los clientes y ofrecer soluciones claras y efectivas. Esto me permite desarrollar aplicaciones y sitios web interactivos y accesibles.
 
-I currently work as a freelancer for companies, foundations and businesses, always looking for new challenges that allow me to improve and contribute with innovative projects. My goal is to continue growing professionally, while sharing my knowledge and helping others achieve their goals in the world of technology.
+Actualmente trabajo como freelancer para empresas, fundaciones y negocios, siempre buscando nuevos retos que me permitan mejorar y aportar con proyectos innovadores. Mi objetivo es seguir creciendo profesionalmente, mientras comparto mi conocimiento y ayudo a otros a lograr sus metas en el mundo de la tecnología.
 
 
 ## Language and Tools
