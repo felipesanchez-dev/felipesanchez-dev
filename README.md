@@ -25,8 +25,6 @@
 
 ## Un poco sobre mí
 **¡Hola, soy Felipe Sánchez!** Desarrollador de aplicaciones web y multiplataforma utilizando tecnologías como Astro, React, React Native-Expo, JavaScript y Node.js.
-### ¿Quién soy más allá de la pantalla?
-La programación es una de mis grandes pasiones, pero no todo en mi vida gira en torno a ella. Soy una persona perseverante y creativa, siempre buscando equilibrar mis intereses. Me encanta el fútbol, jugar ajedrez, ver películas y explorar el mundo, visitando nuevos lugares.
 
 
 ## Language and Tools
