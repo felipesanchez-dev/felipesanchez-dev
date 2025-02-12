@@ -28,18 +28,6 @@
 ### ¿Quién soy más allá de la pantalla?
 La programación es una de mis grandes pasiones, pero no todo en mi vida gira en torno a ella. Soy una persona perseverante y creativa, siempre buscando equilibrar mis intereses. Me encanta el fútbol, jugar ajedrez, ver películas y explorar el mundo, visitando nuevos lugares.
 
-Mi enfoque principal ha sido estudiar tecnologías y mejorar mi lógica de programación hasta sentirme cómodo compartiendo lo que sé, a mi manera. A diferencia de las clases tradicionales o los cursos que se enfocan en teorías formales, mi objetivo es enseñar programación de una manera más natural, sin necesidad de leer manuales extensos ni utilizar un lenguaje técnico que pueda resultar complicado.
-
-Como ingeniero de software, me apasiona crear soluciones tecnológicas que realmente marquen la diferencia. Siempre estoy buscando aprender nuevas tecnologías y herramientas, como modelos de inteligencia artificial, que me permitan automatizar, optimizar y construir estructuras y arquitecturas de código más robustas y eficientes. Estas herramientas son clave para mejorar mis proyectos y promover buenas prácticas en el desarrollo de software.
-
-Pronto comenzaré a compartir mis proyectos y conocimientos sobre programación en plataformas como Twitch, YouTube y TikTok. Mi sueño es convertirme en un creador de contenido especializado en el desarrollo de aplicaciones web desde Colombia. Además, estoy trabajando en una plataforma de cursos donde ofreceré lecciones de programación orientadas a jóvenes y personas interesadas en la tecnología.
-
-Uno de mis proyectos favoritos es una aplicación web que simula los exámenes de ICFES de Colombia. Esta herramienta permitirá a los estudiantes practicar con simulaciones completas, mejorando su preparación académica de una manera efectiva y dinámica.
-
-Soy una persona sociable, alegre y creativa. Gracias a mis habilidades blandas, soy un buen líder de proyectos, capaz de entender las necesidades de los clientes y ofrecer soluciones claras y efectivas. Esto me permite desarrollar aplicaciones y sitios web interactivos y accesibles.
-
-Actualmente trabajo como freelancer para empresas, fundaciones y negocios, siempre buscando nuevos retos que me permitan mejorar y aportar con proyectos innovadores. Mi objetivo es seguir creciendo profesionalmente, mientras comparto mi conocimiento y ayudo a otros a lograr sus metas en el mundo de la tecnología.
-
 
 ## Language and Tools
 
