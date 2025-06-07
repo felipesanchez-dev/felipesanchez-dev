@@ -125,30 +125,6 @@ I'm a passionate **Software Engineer** and **Full Stack Developer** with experti
 - Optimized performance with Astro
 - Responsive and modern design
 
-### 🎮 [Candy Crush Mobile Game](https://github.com/felipesanchez-dev/Candy-Crush)
-**Tech Stack:** `React Native` `TypeScript` `Mobile Development`
-- Complete mobile game implementation
-- Cross-platform compatibility (Android/iOS)
-- Available as APK download
-
-### 🏢 [Business Solutions Platform](https://organicoslacomarca.online)
-**Tech Stack:** `Astro` `Vue.js` `MDX` `TypeScript`
-- Complete business website with catalog system
-- Multi-technology integration
-- Modern e-commerce features
-
-### 📱 [News App - React Native](https://github.com/felipesanchez-dev/app-noticias)
-**Tech Stack:** `React Native` `TypeScript` `API Integration`
-- Cross-platform news application
-- Real-time news feed integration
-- Clean and intuitive user interface
-
-### 🏆 [Tournament Management System](https://github.com/felipesanchez-dev/torneo)
-**Tech Stack:** `React Native` `TypeScript` `Mobile App`
-- Complete tournament management solution
-- Mobile-first approach
-- Real-time updates and notifications
-
 ---
 
 ## 💼 Professional Skills
