@@ -28,7 +28,6 @@
 ---
 
 <!-- Saludo (Hello) -->
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Felipe Sánchez</h1>
 
 <!-- Efecto escritura -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+%26+Software+Engineer;Specialized+in+Modern+Web+Technologies;Building+Amazing+Digital+Experiences;Always+Learning+New+Technologies)](https://git.io/typing-svg)
