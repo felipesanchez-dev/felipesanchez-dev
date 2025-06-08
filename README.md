@@ -151,7 +151,7 @@ I'm a passionate **Software Engineer** and **Full Stack Developer** with experti
 
 - 🔥 **23+ Active Repositories** spanning multiple technologies
 - 📱 Specialized in **React Native** mobile development
-- 🌐 Expert in **modern web frameworks** (Astro, Next.js, Vue.js)
+- 🌐 Expert in **modern web frameworks** (Astro, Next.js, React)
 - 🤖 Currently exploring **AI integration** in web applications
 - 🚀 **Portfolio website** live at [felipesanchezdev.site](https://felipesanchezdev.site)
 
