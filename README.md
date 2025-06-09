@@ -9,7 +9,7 @@
   <img src="https://github.com/felipesanchez-dev.png" width="120" height="120" style="border-radius: 50%; border: 3px solid #16a34a;" alt="Felipe Reyes Sanchez" />
   
   **Felipe Reyes Sanchez**  
-  *Full Stack Developer & UI/UX Enthusiast*
+  *Full Stack Developer & UI/UX*
 </div>
 
 
