@@ -56,7 +56,7 @@ I'm a passionate **Software Engineer** and **Full Stack Developer** with experti
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=felipesanchez-dev&theme=onedark" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=felipesanchez-dev&theme=onedark" />
 </div>
 
 ---
